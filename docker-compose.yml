@@ -1,0 +1,5 @@
+services:
+  web:
+    image: static_task_manager:v1
+    ports:
+      - "9090:80"
