@@ -1,5 +1,5 @@
 services:
   web:
-    image: static_task_manager:latest
+    image: ahmad780/static_task_manager:latest
     ports:
       - "9090:80"
